@@ -1,2 +1,0 @@
-# JetBrainsSettings
-Idea配置
