@@ -1,15 +1,16 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1678266331797" />
+    <option name="lastTrimTime" value="1678957118564" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Any '%' found in the region starts an invalid format specifier." />
       <item value="Inserts the specified element into this queue if it is possible to do so immediately without violating capacity restrictions, returning true upon success and false if no space is currently available. When using a capacity-restricted queue, this method is generally preferable to add, which can fail to insert an element only by throwing an exception. Params: e – the element to add" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1" />
+        <entry key="ENGLISH" value="2" />
       </map>
     </option>
   </component>
